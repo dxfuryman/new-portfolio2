@@ -26,7 +26,7 @@ The website includes the following pages:
 
 ## Live Demo
 
-You can view a live demo of the website here: [Your portfolio website](https://myportfolio.com)
+You can view a live demo of the website here: [Your portfolio website](https://dxfuryman.github.io/new-portfolio2/)
 
 ## Setup
 
@@ -37,7 +37,7 @@ To run this project locally:
 
 ## Contact
 
-If you want to contact me, you can reach me at [Yo email](mailto:email@example.com).
+If you want to contact me, you can reach me at [Yo email](vineetsomani11@gmail.com).
 
 ## License
 
